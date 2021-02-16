@@ -1,0 +1,12 @@
+							Import these Packages While Doing These Project
+					-----------------------------------------------------------------------------
+
+It is improtant to learn about these Packages
+
+
+import speech_recognition as sr
+import pyttsx3
+import pywhatkit
+import datetime
+import wikipedia
+import pyjokes
